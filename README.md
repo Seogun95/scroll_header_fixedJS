@@ -14,3 +14,5 @@
 
 https://user-images.githubusercontent.com/76584961/190879485-345f6365-262b-47d0-b6db-211487c51b5e.mp4
 
+# Blog
+[기술 블로그](https:seons-dev.tistory.com/)
