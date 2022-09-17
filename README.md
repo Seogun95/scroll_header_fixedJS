@@ -11,3 +11,6 @@
 [Fixed Header 데모 페이지](https://fixed-header-js.netlify.app/)
 
 ## PREVIEW
+
+https://user-images.githubusercontent.com/76584961/190879485-345f6365-262b-47d0-b6db-211487c51b5e.mp4
+
